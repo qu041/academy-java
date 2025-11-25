@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Extract method &apos;public static void m1()&apos; from &apos;com.test.question.Q119.main(...)&apos; to &apos;com.test.question.Q119&apos;&#x0D;&#x0A;- Original project: &apos;JavaTest&apos;&#x0D;&#x0A;- Method name: &apos;m1&apos;&#x0D;&#x0A;- Destination type: &apos;com.test.question.Q119&apos;&#x0D;&#x0A;- Declared visibility: &apos;public&apos;" comments="false" description="Extract method &apos;m1&apos;" destination="0" exceptions="false" flags="786434" id="org.eclipse.jdt.ui.extract.method" input="/src&lt;com.test.question{Q119.java" name="m1" replace="false" selection="208 692" stamp="1751327682313" version="1.0" visibility="1"/>
-</session>
