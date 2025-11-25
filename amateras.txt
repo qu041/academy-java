@@ -1,0 +1,3 @@
+https://takezoe.github.io/amateras-update-site
+
+--add-opens=java.desktop/java.beans=ALL-UNNAMED

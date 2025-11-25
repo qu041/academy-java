@@ -1,0 +1,7 @@
+AbstractTextEditor.Color.Background.SystemDefault=false
+AbstractTextEditor.Color.SelectionBackground.SystemDefault=false
+AbstractTextEditor.Color.SelectionForeground.SystemDefault=false
+eclipse.preferences.version=1
+lineNumberRuler=true
+org.eclipse.ui.editors.stickyLinesSeparatorColor=81,86,88
+spellingEnabled=false

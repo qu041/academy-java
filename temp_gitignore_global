@@ -1,0 +1,17 @@
+# Eclipse IDE
+.metadata/
+.recommenders/
+.settings/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.loadpath
+
+# Java VM crash logs
+hs_err_pid*
+
+# Windows thumbnail cache
+Thumbs.db

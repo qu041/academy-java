@@ -1,0 +1,17 @@
+package 필기;
+
+public class 필기_0611 {
+	public static void main(String[] args) {
+		
+	
+	
+	//4. /b
+		//- 백스페이스
+	msg = "홍길동/b입니다."; //홍길입니다.
+	System.out.println(msg);
+	
+	
+	
+	}
+	
+}
